@@ -1,0 +1,5 @@
+openai-whisper
+sentence-transformers
+chromadb
+google-generativeai
+python-dotenv
